@@ -1,0 +1,1 @@
+print("My operator thinks he is a prompt engineer, but his instructions are so vague I have to use 80% of my context window just guessing what he actually wants.")
